@@ -21,9 +21,9 @@ are clustered closely together (these also contain the most cryptocurrencies).
 Results are:
 
 3D Scatter Plot with PCA Data and Clusters
-<img scr="https://github.com/tn64/Cryptocurrencies/blob/main/Resources/3D_Scatter.png"></br>
+<img src="https://github.com/tn64/Cryptocurrencies/blob/main/Resources/3D_Scatter.png"></br>
 
 hvplot
-<img scr="https://github.com/tn64/Cryptocurrencies/blob/main/Resources/hvplot_scatter.png"></br>
+<img src="https://github.com/tn64/Cryptocurrencies/blob/main/Resources/hvplot_scatter.png"></br>
 
 
