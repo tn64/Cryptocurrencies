@@ -18,12 +18,12 @@ scatter plot.
 The plots show four different groups of cryptocurrencies, two of which
 are clustered closely together (these also contain the most cryptocurrencies).
 
-Results are:
+**Results are:**
 
-3D Scatter Plot with PCA Data and Clusters
+- **3D Scatter Plot with PCA Data and Clusters**
 <img src="https://github.com/tn64/Cryptocurrencies/blob/main/Resources/3D_Scatter.png"></br>
 
-hvplot
+- **hvplot Scatter Plot**
 <img src="https://github.com/tn64/Cryptocurrencies/blob/main/Resources/hvplot_scatter.png"></br>
 
 
